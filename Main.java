@@ -12,6 +12,5 @@ class Main {
       System.out.println("Your Brithday has happened");
       System.out.println("Your age is " + myAge);
     }
-    System.out.println("RUNS!");
   }
 }
